@@ -1,3 +1,5 @@
+//Authours: Jingyi Yang and Otavio Paz
+
 //library of blue tooth
 #include <SoftwareSerial.h>
 #define pinRX 0
